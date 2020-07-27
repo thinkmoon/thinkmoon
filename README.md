@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://996.icu"><img src="https://wakatime.com/share/@7dc40908-855a-469d-923f-867bf53c7b09/606f6129-7a1c-49d7-961a-87e1067dee25.svg" alt="996.icu" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@7dc40908-855a-469d-923f-867bf53c7b09/606f6129-7a1c-49d7-961a-87e1067dee25.svg" alt="waka time" /></a>
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
