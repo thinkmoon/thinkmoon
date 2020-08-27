@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Can you hear me？https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CORS/Errors/CORSMultipleAllowOriginNotAllowed
-
+Can you hear me？https://blog.csdn.net/zimou5581/article/details/90043178
 
 <!--
 **thinkmoon/thinkmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
