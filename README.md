@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Can you hear me？https://github.com/spring-projects/spring-framework/issues/21568
+Can you hear me？https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CORS/Errors/CORSMultipleAllowOriginNotAllowed
 
 
 <!--
