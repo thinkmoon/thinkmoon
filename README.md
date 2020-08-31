@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Can you hear me？https://blog.csdn.net/qq_36850813/article/details/100778584
+Can you hear me？
 
 <!--
 **thinkmoon/thinkmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
